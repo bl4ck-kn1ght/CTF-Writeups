@@ -12,16 +12,15 @@ challenges = {
 BASE_DIR = os.getcwd()
 
 
-def c_dir_readme(c):
-    os.mkdir(c)
-    with open(c+"/README.md","w")as r_file:
-        r_file.write("# {}".format(string.capwords(c.replace("_"," "))))
-    return 
+def r_(c): 
+    with open(c[0]+"/README.md","w") as r_file:
+         r_file.write("# {}".format(string.capwords(c[1].replace("_"," "))))
 
 for k,v in challenges.items():
     if not os.path.exists(k):
         os.mkdir(k)
     os.chdir(k)
-    [c_dir_readme(c) for c in v if c not in os.listdir()]
+    [os.mkdir(c) and r_((c,c)) for c in v if c not in os.listdir()]
     os.chdir(BASE_DIR)
 
+r_((".","africa_hackon")) if not os.path.exists("README.md") else None
