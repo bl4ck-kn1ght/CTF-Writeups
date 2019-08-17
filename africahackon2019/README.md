@@ -6,7 +6,7 @@
     - [name check](./pwnable/namecheck)
 - [crypto](./crypto)
     - [try me](./crypto/try_me)
-    - [manifesto](./ctrypto/manifesto)
+    - [manifesto](./crypto/manifesto)
 - [malware analysis](./malware_analysis)
     - [MalChall](./malware_analysis/MalChall)
 - [mobile](./mobile)
