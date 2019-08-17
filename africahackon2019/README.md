@@ -19,4 +19,4 @@
     - [easy flag](./web/easy_flag)
     - [the ultimate tool](./web/the_ultimate_tool)
 - [Reversing](./reversing)
-    - [command parser](./reversing/commandparser)
+    - [command parser](./reversing/command_parser)
