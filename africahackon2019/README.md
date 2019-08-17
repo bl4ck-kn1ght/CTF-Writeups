@@ -2,8 +2,8 @@
 
 ## Table Of Contents
  - [Pwnable](./pwnable)
-    - [iamfree]()
-    - [name check]()
+    - [iamfree](./pwnable/iamfree)
+    - [name check](./pwnable/namecheck)
 - [crypto](./crypto)
     - [try me](./crypto/try_me)
     - [manifesto](./ctrypto/manifesto)
