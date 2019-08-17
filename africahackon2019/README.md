@@ -1,4 +1,4 @@
-# Africa Hackon
+# Africa Hackon 2019
 
 ## Table Of Contents
  - [Pwnable](./pwnable)
