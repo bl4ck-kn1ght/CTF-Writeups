@@ -1,12 +1,12 @@
-# Africa Hackon
+# Africa Hackon 2019
 
 ## Table Of Contents
  - [Pwnable](./pwnable)
-    - [iamfree]()
-    - [name check]()
+    - [iamfree](./pwnable/iam_free)
+    - [name check](./pwnable/namecheck)
 - [crypto](./crypto)
     - [try me](./crypto/try_me)
-    - [manifesto](./ctrypto/manifesto)
+    - [manifesto](./crypto/manifesto)
 - [malware analysis](./malware_analysis)
     - [MalChall](./malware_analysis/MalChall)
 - [mobile](./mobile)
@@ -19,4 +19,4 @@
     - [easy flag](./web/easy_flag)
     - [the ultimate tool](./web/the_ultimate_tool)
 - [Reversing](./reversing)
-    - [command parser](./reversing/commandparser)
+    - [command parser](./reversing/command_parser)

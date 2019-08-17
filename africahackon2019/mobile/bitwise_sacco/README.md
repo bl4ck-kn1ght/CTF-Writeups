@@ -1,6 +1,6 @@
 # Bitwise Sacco
 - This was a series of challenges involving an apk, being our first android challenge it was quite fun.
-- You are provided with an [apk file](./bitwise_sacco.apk)
+- You are provided with an [apk file](https://drive.google.com/file/d/1BIHUj_2Zu8wBC6MHZMDAXz6zsJstuSEe/view?usp=sharing)
 
 # challenges
 ## Setup
