@@ -1,1 +1,22 @@
 # Africa Hackon
+
+## Table Of Contents
+ - [Pwnable](./pwnable)
+    - [iamfree]()
+    - [name check]()
+- [crypto](./crypto)
+    - [try me](./crypto/try_me)
+    - [manifesto](./ctrypto/manifesto)
+- [malware analysis](./malware_analysis)
+    - [MalChall](./malware_analysis/MalChall)
+- [mobile](./mobile)
+    - [Bitwise Sacco](./mobile/bitwise_sacco)
+- [Steganography](./steganography)
+    - [waves](./steganography/waves)
+    - [eventuary](./steganography/eventuary)
+- [web](./web)
+    - [access right authentication](./web/access_right_authentication)
+    - [easy flag](./web/easy_flag)
+    - [the ultimate tool](./web/the_ultimate_tool)
+- [Reversing](./reversing)
+    - [command parser](./reversing/commandparser)

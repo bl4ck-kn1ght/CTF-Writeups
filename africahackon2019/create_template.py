@@ -2,7 +2,7 @@ import os, string
 
 challenges = {
     "crypto":["try_me","manifesto"],
-    "malware_analysis":["cracks_by_jong","malchall_one","malchall_two"],
+    "malware_analysis":["Malchall"],
     "mobile":["bitwise_sacco"],
     "pwnable":["iam_free","namecheck"],
     "reversing":["command_parser"],
